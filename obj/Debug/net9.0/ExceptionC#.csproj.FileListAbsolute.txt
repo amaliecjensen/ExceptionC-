@@ -1,0 +1,14 @@
+C:\Users\amali\Desktop\ExceptionC#\bin\Debug\net9.0\ExceptionC#.exe
+C:\Users\amali\Desktop\ExceptionC#\bin\Debug\net9.0\ExceptionC#.deps.json
+C:\Users\amali\Desktop\ExceptionC#\bin\Debug\net9.0\ExceptionC#.runtimeconfig.json
+C:\Users\amali\Desktop\ExceptionC#\bin\Debug\net9.0\ExceptionC#.dll
+C:\Users\amali\Desktop\ExceptionC#\bin\Debug\net9.0\ExceptionC#.pdb
+C:\Users\amali\Desktop\ExceptionC#\obj\Debug\net9.0\ExceptionC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amali\Desktop\ExceptionC#\obj\Debug\net9.0\ExceptionC#.AssemblyInfoInputs.cache
+C:\Users\amali\Desktop\ExceptionC#\obj\Debug\net9.0\ExceptionC#.AssemblyInfo.cs
+C:\Users\amali\Desktop\ExceptionC#\obj\Debug\net9.0\ExceptionC#.csproj.CoreCompileInputs.cache
+C:\Users\amali\Desktop\ExceptionC#\obj\Debug\net9.0\ExceptionC#.dll
+C:\Users\amali\Desktop\ExceptionC#\obj\Debug\net9.0\refint\ExceptionC#.dll
+C:\Users\amali\Desktop\ExceptionC#\obj\Debug\net9.0\ExceptionC#.pdb
+C:\Users\amali\Desktop\ExceptionC#\obj\Debug\net9.0\ExceptionC#.genruntimeconfig.cache
+C:\Users\amali\Desktop\ExceptionC#\obj\Debug\net9.0\ref\ExceptionC#.dll
