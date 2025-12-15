@@ -2,10 +2,12 @@
 {
     static void Main(string[] args)
     {
-        var streamReader = new StreamReader("heeej");
+        StreamReader streamReader = null;
         try
         {
-
+            var streamReader = new StreamReader("heeej");
+            var content = streamReader.ReadToEnd();
+            
         }
         catch (Exception ex)
         {
