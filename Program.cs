@@ -5,15 +5,13 @@
 
         try
         {
-            using (var streamReader = new StreamReader("hej"))
-            {
-                var content = streamReader.ReadToEnd();
-            }
+            var api = new YoutubeApi();
+            var videos = api.GetVideos("amalie");
 
         }
         catch (Exception ex)
         {
-            System.Console.WriteLine("an error occured, exception caught");
+            System.Console.WriteLine(ex.Message);
         }
 
     }
